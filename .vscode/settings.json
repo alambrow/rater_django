@@ -4,7 +4,7 @@
         "--load-plugins=pylint_django"
     ],
     "python.linting.pylintArgs": [
-        "--django-settings-module=django_rater.settings",
+        "--django-settings-module=django_rater.settings"
     ],
     "sqltools.connections": [
         {
